@@ -1,3 +1,1 @@
-print("hello hirthic")
-
-print(a+b+c) 
+print("hello hirthic how are you ")
